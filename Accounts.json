@@ -1,0 +1,49 @@
+{
+  "accounts": [
+    {
+      "name": "Chase Checking Account",
+      "id": "011001",
+      "zipcode": "95089",
+      "accountType": "checking",
+      "status": "open",
+      "balance": 11200.50,
+      "accountHolder": "stevendonnelly"
+    },
+    {
+      "name": "Wells Fargo Savings Account",
+      "id": "011002",
+      "zipcode": "94111",
+      "accountType": "savings",
+      "status": "open",
+      "balance": 20156.12,
+      "accountHolder": "prachishah"
+    },
+    {
+      "name": "Zions Bank Savings Account",
+      "id": "011003",
+      "zipcode": "47409",
+      "accountType": "savings",
+      "status": "open",
+      "balance": 12045.38,
+      "accountHolder": "albertoplata"
+    },
+    {
+      "name": "Bank of Hawaii Checking Account",
+      "id": "011004",
+      "zipcode": "51067",
+      "accountType": "checking",
+      "status": "open",
+      "balance": 13079.33,
+      "accountHolder": "willjeliffe"
+    },
+    {
+      "name": "PNC Bank Checking Account",
+      "id": "011005",
+      "zipcode": "23455",
+      "accountType": "checking",
+      "status": "open",
+      "balance": 15670.54,
+      "accountHolder": "shadisaifan"
+    }
+  ]
+}
