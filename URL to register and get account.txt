@@ -1,0 +1,3 @@
+https://forge-prachishah-01.labs.fismobile.net/jedihkrz-server-1.0-SNAPSHOT/register?user=prachishah
+
+https://forge-prachishah-01.labs.fismobile.net/jedihkrz-server-1.0-SNAPSHOT/getaccount?user=prachishah
